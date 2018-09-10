@@ -28,6 +28,7 @@ rm -rvf .git \
   src/client/windows \
   src/processor/testdata \
   src/testing \
+  src/third_party/lss/.git \
   src/third_party/protobuf/protobuf/.git \
   src/third_party/protobuf/protobuf/benchmarks \
   src/third_party/protobuf/protobuf/editors \
